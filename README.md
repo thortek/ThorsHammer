@@ -3,7 +3,7 @@ ThorsHammer
 
 This repo is used for an assignment in my DGM 3790 Class. The assignment is to demonstrate my Git/Github skills.
 
-ThorsHammer
+Create personal Github/Bitbucket repo
 ===========
 You need to create a personal GitHub or BitBucket repository.  This is where you will demonstrate some of your newly acquired coding skills with AngularJS, Git, JSON, etc.  
 
